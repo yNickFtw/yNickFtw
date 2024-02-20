@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Freitas</h1>
 <h3 align="center">A passionate full-stack developer from Brazil (São Paulo)</h3>
 
-- 🌱 I’m currently learning **NodeJS and ReactJS**
+- 🌱 I’m a Full-Stack Developer |**NodeJS and ReactJS**|
 
 - 📫 How to reach me **nicolasfreitascoelho@gmail.com**
 
