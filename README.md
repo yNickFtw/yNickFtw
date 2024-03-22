@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nicolasfreitascoelho@gmail.com**
 
-- 🔥 My portfolio: **<a href="https://nicolasfreitas-portfolio.vercel.app?code=github_profile" target="blank">Click here!</a>**
+- 🔥 My portfolio: **<a href="https://nicolasfreitas-portfolio.vercel.app?code=github_profile" target="blank">Click here!</a>** (under development)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
